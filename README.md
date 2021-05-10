@@ -1,16 +1,16 @@
-Spacex
+#Spacex
 A front-end application which would help users list and browse all launches by SpaceX program.
 
-Installation
+#Installation
 To install, simply clone this repository & run the following command yarn or npm install, this will install all the dependencies for you.
 
-Running Project
+#Running Project
 To run this project locally, run the following command yarn start or npm start, this will start a local instance of the application & you will be able to run the app in your browser at this url http://localhost:55018/.
 
-Netlify Deployment
+#Netlify Deployment
 SpaceX app is deployed on Netlify Spacex-Launch-Programs
 
-UI And Filter Implementation
+#UI And Filter Implementation
 Filters and Launch Items details cards having Spacex launch details fetched from API
 
 ![image](https://user-images.githubusercontent.com/83904437/117692445-a722e180-b1da-11eb-8e16-9f64832e8856.png)
