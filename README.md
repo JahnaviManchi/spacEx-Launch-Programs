@@ -12,7 +12,7 @@ To run this project locally, run the following command yarn start or npm start, 
 
 ## Netlify Deployment
 
-SpacEx app is deployed on Netlify Spacex-Launch-Programs
+SpacEx app is deployed on**Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
 
 ## UI And Filter Implementation
 
