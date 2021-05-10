@@ -1,5 +1,5 @@
 ## Spacex
-A front-end application which would help users list and browse all launches by SpaceX program.
+A front-end application which would help users list and browse all launches by SpacEx program.
 
 ## Installation
 To install, simply clone this repository & run the following command  `yarn` or `npm install`, this will install all the dependencies for you.
@@ -9,7 +9,7 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ### Netlify Deployment
 
-SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
+SpacEx app is deployed on **Netlify** [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
 
 
 ## UI And Filter Implementation
