@@ -1,4 +1,4 @@
-## Spacex
+## SpacEx
 A front-end application which would help users list and browse all launches by SpacEx program.
 
 ## Installation
